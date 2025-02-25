@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/78ecea7cbab247dcbfae051e04c2a4b3/artifacts
+end_time: 1740474750302
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 78ecea7cbab247dcbfae051e04c2a4b3
+run_name: unruly-kit-226
+run_uuid: 78ecea7cbab247dcbfae051e04c2a4b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474988075
+status: 3
+tags: []
+user_id: rania

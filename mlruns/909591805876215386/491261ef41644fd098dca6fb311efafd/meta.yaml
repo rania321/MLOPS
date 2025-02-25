@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/491261ef41644fd098dca6fb311efafd/artifacts
+end_time: 1740474658650
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 491261ef41644fd098dca6fb311efafd
+run_name: judicious-tern-602
+run_uuid: 491261ef41644fd098dca6fb311efafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474658410
+status: 3
+tags: []
+user_id: jenkins

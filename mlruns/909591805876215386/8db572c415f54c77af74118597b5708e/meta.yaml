@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/8db572c415f54c77af74118597b5708e/artifacts
+end_time: 1740508700430
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 8db572c415f54c77af74118597b5708e
+run_name: worried-pig-984
+run_uuid: 8db572c415f54c77af74118597b5708e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740508686626
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/3a1e5f1a96a04ce6a6a862e325ae3774/artifacts
+end_time: 1740430980071
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 3a1e5f1a96a04ce6a6a862e325ae3774
+run_name: peaceful-asp-599
+run_uuid: 3a1e5f1a96a04ce6a6a862e325ae3774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430965853
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/f1eabd0b3fe241f4bebcc1ee1f1e777b/artifacts
+end_time: 1740474923742
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: f1eabd0b3fe241f4bebcc1ee1f1e777b
+run_name: chill-grouse-836
+run_uuid: f1eabd0b3fe241f4bebcc1ee1f1e777b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474923160
+status: 3
+tags: []
+user_id: jenkins

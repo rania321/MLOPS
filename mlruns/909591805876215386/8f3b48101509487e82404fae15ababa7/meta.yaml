@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/8f3b48101509487e82404fae15ababa7/artifacts
+end_time: 1740517795568
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 8f3b48101509487e82404fae15ababa7
+run_name: popular-swan-866
+run_uuid: 8f3b48101509487e82404fae15ababa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740517795355
+status: 3
+tags: []
+user_id: jenkins

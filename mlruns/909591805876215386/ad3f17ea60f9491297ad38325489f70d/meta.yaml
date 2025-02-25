@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/ad3f17ea60f9491297ad38325489f70d/artifacts
+end_time: 1740474879404
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: ad3f17ea60f9491297ad38325489f70d
+run_name: selective-dog-284
+run_uuid: ad3f17ea60f9491297ad38325489f70d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474878884
+status: 3
+tags: []
+user_id: rania

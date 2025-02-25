@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/5dd6941cf6344f5caa326bd00239e841/artifacts
+end_time: 1740430962148
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 5dd6941cf6344f5caa326bd00239e841
+run_name: honorable-elk-261
+run_uuid: 5dd6941cf6344f5caa326bd00239e841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430949765
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/a399f9d7a39043ea8124672803afe8a8/artifacts
+end_time: 1740474982203
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: a399f9d7a39043ea8124672803afe8a8
+run_name: serious-hawk-281
+run_uuid: a399f9d7a39043ea8124672803afe8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474978875
+status: 3
+tags: []
+user_id: rania

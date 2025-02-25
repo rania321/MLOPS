@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/ad082bcaf31f48ebabf0e43e98bc9000/artifacts
+end_time: 1740518300315
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: ad082bcaf31f48ebabf0e43e98bc9000
+run_name: righteous-hare-809
+run_uuid: ad082bcaf31f48ebabf0e43e98bc9000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518238624
+status: 4
+tags: []
+user_id: rania

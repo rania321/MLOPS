@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/28a59485893543c0b54108a6f83aae83/artifacts
+end_time: 1740432798395
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 28a59485893543c0b54108a6f83aae83
+run_name: wise-ox-846
+run_uuid: 28a59485893543c0b54108a6f83aae83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740432782782
+status: 3
+tags: []
+user_id: jenkins

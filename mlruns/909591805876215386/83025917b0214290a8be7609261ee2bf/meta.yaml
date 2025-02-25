@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/83025917b0214290a8be7609261ee2bf/artifacts
+end_time: 1740431000090
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 83025917b0214290a8be7609261ee2bf
+run_name: bold-hog-644
+run_uuid: 83025917b0214290a8be7609261ee2bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430999549
+status: 3
+tags: []
+user_id: jenkins

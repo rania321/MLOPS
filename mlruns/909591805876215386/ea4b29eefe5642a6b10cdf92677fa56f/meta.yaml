@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/ea4b29eefe5642a6b10cdf92677fa56f/artifacts
+end_time: 1740437308388
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: ea4b29eefe5642a6b10cdf92677fa56f
+run_name: polite-stoat-745
+run_uuid: ea4b29eefe5642a6b10cdf92677fa56f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740437294389
+status: 3
+tags: []
+user_id: jenkins

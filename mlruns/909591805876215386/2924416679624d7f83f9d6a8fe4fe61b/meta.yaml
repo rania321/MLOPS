@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/2924416679624d7f83f9d6a8fe4fe61b/artifacts
+end_time: 1740430358787
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 2924416679624d7f83f9d6a8fe4fe61b
+run_name: polite-croc-499
+run_uuid: 2924416679624d7f83f9d6a8fe4fe61b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430358680
+status: 3
+tags: []
+user_id: rania

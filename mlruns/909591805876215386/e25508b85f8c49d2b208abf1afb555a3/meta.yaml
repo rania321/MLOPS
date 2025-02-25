@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/e25508b85f8c49d2b208abf1afb555a3/artifacts
+end_time: 1740430602237
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: e25508b85f8c49d2b208abf1afb555a3
+run_name: salty-doe-395
+run_uuid: e25508b85f8c49d2b208abf1afb555a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430586011
+status: 3
+tags: []
+user_id: rania

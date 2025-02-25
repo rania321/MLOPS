@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/2831e3043d0e42b4b98fc166e069b816/artifacts
+end_time: 1740430999534
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 2831e3043d0e42b4b98fc166e069b816
+run_name: masked-goat-896
+run_uuid: 2831e3043d0e42b4b98fc166e069b816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430984237
+status: 3
+tags: []
+user_id: jenkins

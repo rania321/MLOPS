@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/6a872b98fac24df7a9cd3071ca5fd431/artifacts
+end_time: 1740518979079
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 6a872b98fac24df7a9cd3071ca5fd431
+run_name: sincere-loon-924
+run_uuid: 6a872b98fac24df7a9cd3071ca5fd431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518976673
+status: 3
+tags: []
+user_id: rania

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/c8054ce9ecac4bc39c3b3fe22ae9b366/artifacts
+end_time: 1740437349013
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: c8054ce9ecac4bc39c3b3fe22ae9b366
+run_name: smiling-conch-45
+run_uuid: c8054ce9ecac4bc39c3b3fe22ae9b366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740437348400
+status: 3
+tags: []
+user_id: jenkins

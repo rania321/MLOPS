@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740430999502
+current_stage: None
+description: ''
+last_updated_timestamp: 1740430999502
+name: GradientBoostingModel
+run_id: 2831e3043d0e42b4b98fc166e069b816
+run_link: ''
+source: mlflow-artifacts:/909591805876215386/2831e3043d0e42b4b98fc166e069b816/artifacts/models
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/909591805876215386/2831e3043d0e42b4b98fc166e069b816/artifacts/models
+user_id: null
+version: 4

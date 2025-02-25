@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/aaf69d0c0ad34fb79a50399351bd8584/artifacts
+end_time: 1740474633829
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: aaf69d0c0ad34fb79a50399351bd8584
+run_name: charming-penguin-541
+run_uuid: aaf69d0c0ad34fb79a50399351bd8584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740474613445
+status: 3
+tags: []
+user_id: jenkins

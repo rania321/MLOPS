@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/f20967f4764743a1872e88cdb16a5079/artifacts
+end_time: 1740475114260
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: f20967f4764743a1872e88cdb16a5079
+run_name: judicious-ape-40
+run_uuid: f20967f4764743a1872e88cdb16a5079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740475338712
+status: 3
+tags: []
+user_id: rania

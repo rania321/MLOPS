@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/c2380cf1058940d1ab6919db2b0af76e/artifacts
+end_time: 1740518055325
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: c2380cf1058940d1ab6919db2b0af76e
+run_name: entertaining-pug-875
+run_uuid: c2380cf1058940d1ab6919db2b0af76e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740517812802
+status: 3
+tags: []
+user_id: jenkins

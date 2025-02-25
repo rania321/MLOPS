@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/425223a7cc8b4a42809722c1708bd52c/artifacts
+end_time: 1740432836367
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 425223a7cc8b4a42809722c1708bd52c
+run_name: colorful-fowl-75
+run_uuid: 425223a7cc8b4a42809722c1708bd52c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740432821643
+status: 3
+tags: []
+user_id: jenkins

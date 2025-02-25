@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740475223485
+current_stage: Production
+description: ''
+last_updated_timestamp: 1740474982192
+name: model_predict
+run_id: a399f9d7a39043ea8124672803afe8a8
+run_link: ''
+source: mlflow-artifacts:/909591805876215386/a399f9d7a39043ea8124672803afe8a8/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/909591805876215386/a399f9d7a39043ea8124672803afe8a8/artifacts/model
+user_id: null
+version: 4

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/8683b6aa8cb1415abb2020d28c7c8350/artifacts
+end_time: 1740475114650
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 8683b6aa8cb1415abb2020d28c7c8350
+run_name: nebulous-hare-792
+run_uuid: 8683b6aa8cb1415abb2020d28c7c8350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740475114284
+status: 3
+tags: []
+user_id: rania

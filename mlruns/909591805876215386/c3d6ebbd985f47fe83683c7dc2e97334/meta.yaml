@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/c3d6ebbd985f47fe83683c7dc2e97334/artifacts
+end_time: 1740508720446
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: c3d6ebbd985f47fe83683c7dc2e97334
+run_name: rambunctious-ape-491
+run_uuid: c3d6ebbd985f47fe83683c7dc2e97334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740508704589
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/d813ac827b7942f680e00ea42eb84fa9/artifacts
+end_time: 1740518979209
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: d813ac827b7942f680e00ea42eb84fa9
+run_name: rumbling-frog-543
+run_uuid: d813ac827b7942f680e00ea42eb84fa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518979197
+status: 3
+tags: []
+user_id: rania

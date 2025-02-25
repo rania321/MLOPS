@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/1087257295ac492b90cf8600cf0cdb7a/artifacts
+end_time: 1740432836967
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 1087257295ac492b90cf8600cf0cdb7a
+run_name: languid-mule-581
+run_uuid: 1087257295ac492b90cf8600cf0cdb7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740432836385
+status: 3
+tags: []
+user_id: jenkins

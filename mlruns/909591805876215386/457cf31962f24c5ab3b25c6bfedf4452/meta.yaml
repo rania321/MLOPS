@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/457cf31962f24c5ab3b25c6bfedf4452/artifacts
+end_time: 1740430510677
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 457cf31962f24c5ab3b25c6bfedf4452
+run_name: nimble-colt-85
+run_uuid: 457cf31962f24c5ab3b25c6bfedf4452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430509920
+status: 3
+tags: []
+user_id: jenkins

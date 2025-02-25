@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/3d6e90e4fb4b47df894ff3ff5df160eb/artifacts
+end_time: 1740430796244
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 3d6e90e4fb4b47df894ff3ff5df160eb
+run_name: dapper-bat-81
+run_uuid: 3d6e90e4fb4b47df894ff3ff5df160eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740430796232
+status: 3
+tags: []
+user_id: rania

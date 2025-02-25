@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/e5d1b25eecdb4b0e98d10b7431aff4e1/artifacts
+end_time: 1740518450583
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: e5d1b25eecdb4b0e98d10b7431aff4e1
+run_name: mysterious-frog-931
+run_uuid: e5d1b25eecdb4b0e98d10b7431aff4e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518689960
+status: 3
+tags: []
+user_id: rania

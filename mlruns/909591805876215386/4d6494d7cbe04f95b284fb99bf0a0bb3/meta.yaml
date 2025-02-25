@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909591805876215386/4d6494d7cbe04f95b284fb99bf0a0bb3/artifacts
+end_time: 1740518450719
+entry_point_name: ''
+experiment_id: '909591805876215386'
+lifecycle_stage: active
+run_id: 4d6494d7cbe04f95b284fb99bf0a0bb3
+run_name: amazing-snipe-29
+run_uuid: 4d6494d7cbe04f95b284fb99bf0a0bb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740518450707
+status: 3
+tags: []
+user_id: rania
